@@ -1,0 +1,172 @@
+body {
+    font-family: Roboto;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.whole {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.flexforimgandawesome {
+    height: 500px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.maintext {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 300px;
+    height: 200px;
+}
+
+.awesome {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.firstbutton {
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    background-color: #E5E7EB;
+}
+
+.middlepart {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.information {
+    margin: 30px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.digitals {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #3882F6;
+    border-radius: 16px;
+}
+
+.cardsubtext {
+    width: 150px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.thirdpart {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 30px;
+}
+.quote {
+    width: 700px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.last {
+    height: 450px;
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.blue {
+    border-radius: 16px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+.action {
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 3px;
+}
+
+.one {
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.two {
+    color: #E5E7EB;
+}  
+
+.secondbutton {
+    border-radius: 5px;
+    border: #F9FAF8;
+    color: #3882F6;
+}
